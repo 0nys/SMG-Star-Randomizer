@@ -26,6 +26,8 @@
 # 		- --no-comets (removes all comet (regular and purple) stars)
 # 	The program creates a file `smg_rando.txt`, which contains
 # 	the randomized list of stars.
+# 	If the optional option --livesplit is given as well, smg_rando.txt is a split
+# 	file readable by Livesplit
 
 import random
 import sys
@@ -223,7 +225,7 @@ star_description = {
 	"Battlerock_3" : "Battlerock 3 - Fountain",
 	"Battlerock_C" : "Battlerock Comet (white) - Fountain",
 	"Battlerock_PC" : "Battlerock Purple Comet - Fountain",
-	"Battlerock_?" : "Battlerock Secret (20 bits) - Fountain",
+	"Battlerock_?" : "Battlerock Secret - Fountain",
 	"Battlerock_G" : "Battlerock Green (Luigi 2) - Fountain",
 	"Beach_Bowl_1" : "Beach Bowl 1 - Kitchen",
 	"Beach_Bowl_2" : "Beach Bowl 2 - Kitchen",
@@ -336,6 +338,7 @@ no_luigi = False
 no_bits = False
 no_comets = False
 goal = goals[0] #default
+livesplit = False
 
 
 def in_logic(star) :
@@ -404,6 +407,9 @@ def rando(goal_stars, all_stars=False):
 	return star_list
 
 
+def create_line_livesplit(i_star):
+	return '<Segment><Name>{}</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment>'.format(star_description[star_list[i_star]])
+
 
 
 
@@ -417,11 +423,12 @@ def dic_of_options(options):
 
 # Read the parameters
 try :
-	options, _ = getopt.getopt(sys.argv[1:], "", ["goal=", "no-bits", "no-luigi", "no-comets"])
+	options, _ = getopt.getopt(sys.argv[1:], "", ["goal=", "no-bits", "no-luigi", "no-comets", "livesplit"])
 	dic = dic_of_options(options)
 	no_bits = "--no-bits" in dic
 	no_luigi = "--no-luigi" in dic
 	no_comets = "--no-comets" in dic
+	livesplit = "--livesplit" in dic
 	if dic["--goal"] not in goals:
 		print("ERROR: goal " + dic["--goal"] + " not recognized.")
 		print("The recognized goals are :\n" + "\n".join(goals))
@@ -450,8 +457,18 @@ else:
 	print("ERROR: your computer has virus")
 
 
+f = open("smg_rando.txt", "w+")
 
-f = open("smg_rando.txt", "w")	
-for i_star in range(len(star_list)):
-	f.write(str(i_star+1) + " - " + star_description[star_list[i_star]] + "\n")
+if livesplit:
+	f.write('<?xml version="1.0" encoding="UTF-8"?><Run version="1.7.0"><GameIcon /><GameName>Super Mario Galaxy</GameName><CategoryName>Random%</CategoryName><Metadata><Run id="" /><Platform usesEmulator="False"></Platform><Region></Region><Variables /></Metadata><Offset>00:00:00</Offset><AttemptCount>0</AttemptCount><AttemptHistory /><Segments>')
+
+	for i_star in range(len(star_list)):
+		f.write(create_line_livesplit(i_star))
+
+	f.write("</Segments><AutoSplitterSettings /></Run>)")
+
+else:
+	for i_star in range(len(star_list)):
+		f.write(str(i_star+1) + " - " + star_description[star_list[i_star]] + "\n")
+
 f.close()
