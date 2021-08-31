@@ -457,18 +457,21 @@ else:
 	print("ERROR: your computer has virus")
 
 
+if livesplit:
+	f_livesplit = open("smg_rando_livesplit.txt", "w")
+	f_livesplit.write('<?xml version="1.0" encoding="UTF-8"?><Run version="1.7.0"><GameIcon /><GameName>Super Mario Galaxy</GameName><CategoryName>Random%</CategoryName><Metadata><Run id="" /><Platform usesEmulator="False"></Platform><Region></Region><Variables /></Metadata><Offset>00:00:00</Offset><AttemptCount>0</AttemptCount><AttemptHistory /><Segments>')
+
+	for i_star in range(len(star_list)):
+		f_livesplit.write(create_line_livesplit(i_star))
+
+	f_livesplit.write("</Segments><AutoSplitterSettings /></Run>)")
+	
+	f_livesplit.close()
+
+
 f = open("smg_rando.txt", "w+")
 
-if livesplit:
-	f.write('<?xml version="1.0" encoding="UTF-8"?><Run version="1.7.0"><GameIcon /><GameName>Super Mario Galaxy</GameName><CategoryName>Random%</CategoryName><Metadata><Run id="" /><Platform usesEmulator="False"></Platform><Region></Region><Variables /></Metadata><Offset>00:00:00</Offset><AttemptCount>0</AttemptCount><AttemptHistory /><Segments>')
-
-	for i_star in range(len(star_list)):
-		f.write(create_line_livesplit(i_star))
-
-	f.write("</Segments><AutoSplitterSettings /></Run>)")
-
-else:
-	for i_star in range(len(star_list)):
-		f.write(str(i_star+1) + " - " + star_description[star_list[i_star]] + "\n")
+for i_star in range(len(star_list)):
+	f.write(str(i_star+1) + " - " + star_description[star_list[i_star]] + "\n")
 
 f.close()

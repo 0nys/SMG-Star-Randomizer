@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><Run version="1.7.0"><GameIcon /><GameName>Super Mario Galaxy</GameName><CategoryName>Random%</CategoryName><Metadata><Run id="" /><Platform usesEmulator="False"></Platform><Region></Region><Variables /></Metadata><Offset>00:00:00</Offset><AttemptCount>0</AttemptCount><AttemptHistory /><Segments><Segment><Name>Gateway</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Good Egg 1 - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Good Egg 2 - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Honeyhive 1 - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Honeyhive 2 - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Loopdeeloop - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Good Egg 3 - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Sweet Sweet (400 bits) - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Bowser Jr.'s Robot Reactor - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Honeyhive 3 - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Space Junk 1 - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Rolling Green - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Battlerock 1 - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Good Egg Comet (red) - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Space Junk 2 - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Space Junk 3 - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Battlerock 2 - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Sling Pod (400 bits) - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Space Junk Secret (50 bits) - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Bowser's Star Reactor - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Bubble Breeze - Kitchen</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Honeyhive Comet (blue) - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Ghostly 1 - Kitchen</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Battlerock Secret - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Ghostly Secret - Kitchen</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Ghostly 2 - Kitchen</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Battlerock 3 - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Beach Bowl 1 - Kitchen</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Beach Bowl Secret - Kitchen</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Battlerock Comet (white) - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Buoy Base Green - Kitchen</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Space Junk Comet (red) - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Flipswitch - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Drip Drop (600 bits) - Kitchen</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Bowser Jr.'s Airship Armada - Kitchen</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Hurry Scurry - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Dusty Dune 1 - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Dusty Dune 2 - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Freezeflame 1 - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Good Egg Secret (Luigi 1) - Terrace</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Bowser's Dark Matter Plant - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Buoy Base - Kitchen</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Dusty Dune 3 - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Toy Time 1 - Engine Room</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Honeyclimb - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Freezeflame 2 - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Dusty Dune Comet (red) - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Bigmouth (800 bits) - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Sea Slide 1 - Engine Room</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Sea Slide 2 - Engine Room</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Battlerock Green (Luigi 2) - Fountain</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Gusty Garden 1 - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Sand Spiral (1000 bits) - Engine Room</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Freezeflame Secret - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Freezeflame Comet (blue) - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Gold Leaf 1 - Engine Room</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Sea Slide 3 - Engine Room</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Toy Time Secret (50 bits) - Engine Room</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Dusty Dune Green (20 bits) - Bedroom</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Bowser Jr.'s Lava Reactor - Engine Room</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment><Segment><Name>Bowser's Galaxy Reactor (the end)</Name><Icon /><SplitTimes><SplitTime name="Personal Best" /></SplitTimes><BestSegmentTime /><SegmentHistory /></Segment></Segments><AutoSplitterSettings /></Run>)
+1 - Gateway
+2 - Good Egg 1 - Terrace
+3 - Good Egg 2 - Terrace
+4 - Honeyhive 1 - Terrace
+5 - Good Egg 3 - Terrace
+6 - Honeyhive 2 - Terrace
+7 - Honeyhive 3 - Terrace
+8 - Loopdeeloop - Terrace
+9 - Bowser Jr.'s Robot Reactor - Terrace
+10 - Space Junk 1 - Fountain
+11 - Flipswitch - Terrace
+12 - Space Junk 2 - Fountain
+13 - Battlerock 1 - Fountain
+14 - Rolling Green - Fountain
+15 - Space Junk 3 - Fountain
+16 - Battlerock 2 - Fountain
+17 - Sweet Sweet (400 bits) - Terrace
+18 - Sling Pod (400 bits) - Fountain
+19 - Battlerock 3 - Fountain
+20 - Space Junk Comet (red) - Fountain
+21 - Battlerock Comet (white) - Fountain
+22 - Bowser's Star Reactor - Fountain
+23 - Ghostly 1 - Kitchen
+24 - Battlerock Secret - Fountain
+25 - Bubble Breeze - Kitchen
+26 - Beach Bowl 1 - Kitchen
+27 - Bowser Jr.'s Airship Armada - Kitchen
+28 - Space Junk Secret (50 bits) - Fountain
+29 - Gusty Garden 1 - Bedroom
+30 - Good Egg Comet (red) - Terrace
+31 - Drip Drop (600 bits) - Kitchen
+32 - Gusty Garden 2 - Bedroom
+33 - Ghostly 2 - Kitchen
+34 - Beach Bowl 2 - Kitchen
+35 - Bowser's Dark Matter Plant - Bedroom
+36 - Honeyhive Comet (blue) - Terrace
+37 - Buoy Base Green - Kitchen
+38 - Buoy Base - Kitchen
+39 - Ghostly 3 - Kitchen
+40 - Good Egg Secret (Luigi 1) - Terrace
+41 - Gusty Garden Secret - Bedroom
+42 - Beach Bowl 3 - Kitchen
+43 - Sea Slide 1 - Engine Room
+44 - Sea Slide 2 - Engine Room
+45 - Gusty Garden 3 - Bedroom
+46 - Sea Slide Secret (40 bits) - Engine Room
+47 - Bowser Jr.'s Lava Reactor - Engine Room
+48 - Sea Slide Comet (blue) - Engine Room
+49 - Deep Dark Secret - Garden
+50 - Honeyclimb - Bedroom
+51 - Sand Spiral (1000 bits) - Engine Room
+52 - Dreadnought 1 - Garden
+53 - Dusty Dune 1 - Bedroom
+54 - Freezeflame Secret - Bedroom
+55 - Deep Dark 1 - Garden
+56 - Bigmouth (800 bits) - Bedroom
+57 - Bonefin - Engine Room
+58 - Dusty Dune 2 - Bedroom
+59 - Ghostly Secret - Kitchen
+60 - Freezeflame 1 - Bedroom
+61 - Bowser's Galaxy Reactor (the end)
